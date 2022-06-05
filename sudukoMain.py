@@ -9,6 +9,8 @@ st.title("SUDOKU SOLVER")
 st.subheader("SOLVE within seconds")
 image=st.file_uploader("IMAGE PLEASE")
 if image is not None:
+    st.subheader("Given Sudoku!")
+    st.image(image)
     image=Image.open(image)
     image=np.array(image)
     
