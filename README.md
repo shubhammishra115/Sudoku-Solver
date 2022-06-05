@@ -1,5 +1,5 @@
 # Sudoku-Solver
-A Sudoku Solver, Just by scanning the image.
+Solve you Sudoku, Just by scanning the image.
 
 ## Table of Content.
 ### Introduction.
