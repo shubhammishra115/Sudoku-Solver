@@ -54,13 +54,19 @@ The Sudoku Solver works fine for the images uploaded in JPEG format provided the
 If the quality of the image is poor then it will be difficult for the machine to interpret and extract the sudoku.
 
 #### Sudoku is enclosed in some rectangle.
-Since we have assumed that the largest contour is the Sudoku, if there will be a contour that is even larger than the Sudoku, then the model will miss interpret the Sudoku and will provide the wrong output.
-Example:
+Since we have assumed that the largest contour is the Sudoku, if there will be a contour that is even larger than the Sudoku, then the model will miss interpret the Sudoku and will provide the wrong output. <br>
+Example:<br>
+<img src="https://github.com/shubhammishra115/Sudoku-Solver/blob/main/Example/wrong%20example.jpg" width="450">
+<br>
 
 The above image will not perform optimally and will provide wrong answer.
 
 ## Examples Used
 An an example we have used three images.
+<br>
+#### Example
+<img src="https://github.com/shubhammishra115/Sudoku-Solver/blob/main/Example/1.jpg" height="450">
+<br>
 
 ## Project Status
 Project will be updated to add new features or if some bug will be encountered.
