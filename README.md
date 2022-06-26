@@ -82,8 +82,8 @@ As an example we have used three images.
 Project will be updated to add new features or if some bug will be encountered.
 
 ## Other Information
-Language Used: Python.
-Library Used: Numpy, cv2, keras, streamlit, BytesIO, PIL.
+Language Used: Python. <br>
+Library Used: Numpy, cv2, keras, streamlit, BytesIO, PIL. <br>
 Technology Used: Image Processing, Machine Learning, Deep Learing, Convolutional Neural Network, Classification.
 
 ## Vote of Thanks
